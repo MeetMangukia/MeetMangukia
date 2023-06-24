@@ -1,0 +1,18 @@
+h1{
+  font-weight: bold;
+}
+
+.hero_section-container .hero_img-box {
+  width: 42%;
+  margin: auto;
+}
+
+.hero_section-container .hero_img-box img {
+  width: 100%;
+}
+
+
+.text-container {
+  text-align: center;
+}
+/* end footer section*/

@@ -1,0 +1,8 @@
+@media (max-width: 576px) {
+    .hero_section-container {
+        flex-direction: column;
+    }
+    .hero_section-container .hero_img-box {
+        width: 90%;
+    }
+}
